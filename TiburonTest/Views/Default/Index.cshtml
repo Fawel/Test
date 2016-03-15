@@ -1,0 +1,45 @@
+﻿@model TiburonTest.Models.FinalViewModel
+@using TiburonTest.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/scripts/jquery-2.2.1.js"></script>
+    <script src="~/scripts/jquery.unobtrusive-ajax.js"></script>
+    <title>Index</title>
+</head>
+@{
+    AjaxOptions SubmitOption = new AjaxOptions
+    {
+        HttpMethod = "POST",
+        UpdateTargetId = "MainField",
+    };
+    }
+<body>
+    <div id="MainField">
+@using (Ajax.BeginForm("Index", SubmitOption))
+{
+    @Html.ValidationSummary()
+    <h1>Укажите ваш пол</h1>
+    foreach (var gender in Model.Genders)
+    {
+        @Html.RadioButtonFor(m => m.Gender, gender); @gender <br />
+    }
+
+    <h1>Марка вашего телефона</h1>
+
+    for (int i = 0; i < Model.BrandsOwned.Count; i++)
+    {
+        @Html.CheckBoxFor(m => m.BrandsOwned[i].Owned, Model.BrandsOwned[i].BrandName); @Model.BrandsOwned[i].BrandName; <br />
+            @Html.HiddenFor(m => m.BrandsOwned[i].BrandName)
+    }
+    <input type="submit" value="Ответить" />
+}
+    </div>
+</body>
+</html>

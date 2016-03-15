@@ -1,0 +1,45 @@
+﻿@model  List<TiburonTest.Models.FinalViewModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>result</title>
+    <script src="~/scripts/jquery-2.2.1.js"></script>
+    <script src="~/scripts/jquery.unobtrusive-ajax.js"></script>
+</head>
+<body>
+    <div> 
+        <h1>Процент обладателей бренда</h1>
+        <table>
+            <thead>
+                
+                <tr>
+                    <th>Бренд\Пол</th>
+                    @foreach (var genders in ViewBag.genders)
+                    {
+                        <th>@genders</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var brands in Model)
+                {
+                    <tr>
+                        <td>@brands.Brand</td>
+                        @foreach (var genders in brands.Smartphoneowner)
+                        {
+                            <td>@genders.Count</td>
+                        }
+                    </tr>
+                }     
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
