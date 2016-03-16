@@ -1,47 +1,46 @@
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\ApplicationInsights.config
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\csc.exe
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\System.Collections.Immutable.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\System.Reflection.Metadata.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\vbc.exe
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\VBCSCompiler.exe
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\roslyn\VBCSCompiler.exe.config
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\TiburonTest.dll.config
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\TiburonTest.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\TiburonTest.pdb
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.Agent.Intercept.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.DependencyCollector.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.Web.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.WindowsServer.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.ApplicationInsights.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.Web.Infrastructure.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Helpers.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Mvc.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Razor.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Webpages.Deployment.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Webpages.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Webpages.Razor.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.DependencyCollector.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.Web.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.AI.WindowsServer.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.ApplicationInsights.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Razor.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Webpages.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Webpages.Deployment.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Webpages.Razor.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Helpers.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\System.Web.Mvc.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\obj\Debug\TiburonTest.dll
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\obj\Debug\TiburonTest.pdb
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\TiburonTest.dll.CodeAnalysisLog.xml
-D:\testing_web\visual_ASP MVC\TiburonTest\TiburonTest\bin\TiburonTest.dll.lastcodeanalysissucceeded
+D:\git\Test\TiburonTest\bin\ApplicationInsights.config
+D:\git\Test\TiburonTest\bin\roslyn\csc.exe
+D:\git\Test\TiburonTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\git\Test\TiburonTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\git\Test\TiburonTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\git\Test\TiburonTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\git\Test\TiburonTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\git\Test\TiburonTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\git\Test\TiburonTest\bin\roslyn\System.Collections.Immutable.dll
+D:\git\Test\TiburonTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\git\Test\TiburonTest\bin\roslyn\vbc.exe
+D:\git\Test\TiburonTest\bin\roslyn\VBCSCompiler.exe
+D:\git\Test\TiburonTest\bin\roslyn\VBCSCompiler.exe.config
+D:\git\Test\TiburonTest\bin\TiburonTest.dll.config
+D:\git\Test\TiburonTest\bin\TiburonTest.dll
+D:\git\Test\TiburonTest\bin\TiburonTest.pdb
+D:\git\Test\TiburonTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\git\Test\TiburonTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\git\Test\TiburonTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\git\Test\TiburonTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\git\Test\TiburonTest\bin\Microsoft.AI.Web.dll
+D:\git\Test\TiburonTest\bin\Microsoft.AI.WindowsServer.dll
+D:\git\Test\TiburonTest\bin\Microsoft.ApplicationInsights.dll
+D:\git\Test\TiburonTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\git\Test\TiburonTest\bin\Microsoft.Web.Infrastructure.dll
+D:\git\Test\TiburonTest\bin\System.Web.Helpers.dll
+D:\git\Test\TiburonTest\bin\System.Web.Mvc.dll
+D:\git\Test\TiburonTest\bin\System.Web.Razor.dll
+D:\git\Test\TiburonTest\bin\System.Web.Webpages.Deployment.dll
+D:\git\Test\TiburonTest\bin\System.Web.Webpages.dll
+D:\git\Test\TiburonTest\bin\System.Web.Webpages.Razor.dll
+D:\git\Test\TiburonTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\git\Test\TiburonTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\git\Test\TiburonTest\bin\Microsoft.AI.Web.xml
+D:\git\Test\TiburonTest\bin\Microsoft.AI.WindowsServer.xml
+D:\git\Test\TiburonTest\bin\Microsoft.ApplicationInsights.xml
+D:\git\Test\TiburonTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\git\Test\TiburonTest\bin\System.Web.Razor.xml
+D:\git\Test\TiburonTest\bin\System.Web.Webpages.xml
+D:\git\Test\TiburonTest\bin\System.Web.Webpages.Deployment.xml
+D:\git\Test\TiburonTest\bin\System.Web.Webpages.Razor.xml
+D:\git\Test\TiburonTest\bin\System.Web.Helpers.xml
+D:\git\Test\TiburonTest\bin\System.Web.Mvc.xml
+D:\git\Test\TiburonTest\obj\Debug\TiburonTest.csprojResolveAssemblyReference.cache
+D:\git\Test\TiburonTest\obj\Debug\TiburonTest.dll
+D:\git\Test\TiburonTest\obj\Debug\TiburonTest.pdb
